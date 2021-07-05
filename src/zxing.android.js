@@ -9,7 +9,6 @@
  * Version 0.0.3                                      Nathan@master-technology.com
  ************************************************************************************/
 "use strict";
-var application = require('application');
 
 /* global android, com, java, javax, global */
 
