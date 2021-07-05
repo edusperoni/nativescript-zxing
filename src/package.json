@@ -34,9 +34,6 @@
     "type": "APACHE",
     "url": "https://git.proplugins.org/proplugins/nativescript-zxing/blob/master/LICENSE"
   },
-  "scripts": {
-    "postinstall": "node postinstall.js || echo \"ignore\""
-  },
   "homepage": "https://git.proplugins.org/proplugins/nativescript-zxing",
   "readmeFilename": "README.md"
 }
